@@ -1,0 +1,14 @@
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+.affix {
+    top: 0;
+    width: 100%;
+}
+
+
+p{
+    font-size: 250%;
+}
